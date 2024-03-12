@@ -20,9 +20,14 @@ Get ready to dive into the fascinating world of data science and analytics! In t
 Hey data dynamos and insight seekers! Ready to light up the data world? Remember what the cool cats like W. Edwards Deming say: "Without data, you're just another person with an opinion." So let's ditch the guesswork and unleash the power of data to rock the analytics scene! Get your shades on, because we're about to shine bright like data diamonds! 💎✨
 
 
+
+![image](https://github.com/Nikolina1307/Nikolina1307/assets/137876293/a1c892cd-1614-4d2d-add2-b11c48e608c9)
+
+
+
 * 🔭 I’m currently working on:
   
-  * searching for opportunities to apply my expertise in developing and optimizing modern statistical models and analytics applications to drive data-driven decision-making.
+  * Searching for opportunities to apply my expertise in developing and optimizing modern statistical models and analytics applications to drive data-driven decision-making.
   * Expanding my portfolio with more projects involving SQL, Python, and Machine Learning.
 
 * 🌱 I’m currently learning Python and diving into the world of machine learning!
