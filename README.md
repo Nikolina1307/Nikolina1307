@@ -20,9 +20,8 @@ Get ready to dive into the fascinating world of data science and analytics! In t
 Hey data dynamos and insight seekers! Ready to light up the data world? Remember what the cool cats like W. Edwards Deming say: "Without data, you're just another person with an opinion." So let's ditch the guesswork and unleash the power of data to rock the analytics scene! Get your shades on, because we're about to shine bright like data diamonds! 💎✨
 
 
-
-![image](https://github.com/Nikolina1307/Nikolina1307/assets/137876293/a1c892cd-1614-4d2d-add2-b11c48e608c9)
-
+![alt-text](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)
+![DataAnalytics](https://github.com/Nikolina1307/Nikolina1307/assets/137876293/710be003-9604-4d8b-8a7e-1a616813e436)
 
 
 * 🔭 I’m currently working on:
