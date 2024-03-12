@@ -27,7 +27,7 @@ Hey data dynamos and insight seekers! Ready to light up the data world? Remember
 * 🔭 I’m currently working on:
   
   * Searching for opportunities to apply my expertise in developing and optimizing modern statistical models and analytics applications to drive data-driven decision-making.
-  * Expanding my portfolio with more projects involving SQL, Python, and Machine Learning.
+  * Expanding my portfolio with more projects involving SQL, Python, and machine learning.
 
 * 🌱 I’m currently learning Python and diving into the world of machine learning!
 
