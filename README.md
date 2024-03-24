@@ -21,7 +21,6 @@ Hey data dynamos and insight seekers! Ready to light up the data world? Remember
 
 
 ![alt-text](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/DataAnalytics.gif)
-![DataAnalytics](https://github.com/Nikolina1307/Nikolina1307/assets/137876293/710be003-9604-4d8b-8a7e-1a616813e436)
 
 
 * 🔭 I’m currently working on:
